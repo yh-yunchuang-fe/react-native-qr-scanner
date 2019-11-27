@@ -1,6 +1,6 @@
 {
-  "name": "react-native-camera-scanner",
-  "version": "1.0.2",
+  "name": "yh-rn-qr-scanner",
+  "version": "1.0.3",
   "private": false,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
